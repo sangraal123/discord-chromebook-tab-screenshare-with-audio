@@ -1,1 +1,4 @@
 # discord-chromebook-tab-screenshare-with-audio
+
+Chromebookでディスコードの画面共有を行った時にブラウザ側のプレイヤーで音声が自動的にオフになる問題を解決しました。<br/>
+軽くChatGPTに実際のコードを渡してみたらささっと書いてくれてきちんと動いたので感激です。今後時間がある時に改善していきます。
